@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エミュレーション (mode:totonee)",
+  "base_artist": "stargaze shelter",
+  "createdAt": "2025-12-03T19:00:01.709312Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エミュレーション(n Remix)",
+      "artist": "stargaze shelter",
+      "has_synced": false,
+      "path": "select/pl_01_エミュレーション(n_Remix)_stargaze_shelter.txt"
+    }
+  ]
+}
